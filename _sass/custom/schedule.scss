@@ -93,15 +93,15 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $blue-000;
     }
 
     &.lab {
       background-color: $purple-000;
     }
 
-    &.office-hours {
-      background-color: $blue-000;
+    &.office-hour {
+      background-color: $grey-dk-000;
     }
   }
 }

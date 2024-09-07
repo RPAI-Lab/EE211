@@ -32,11 +32,11 @@ schedule:
         start: 10:20 AM
         end: 12:10 PM
         location: 120, South Tower, College of Engineering
-      - name: Office Hours
-        start: 2:00 PM
-        end: 2:50 PM
-        location: 271 blabla
   - name: Wednesday
-  - name: Thursday
-  - name: Friday
+    events:
+      - name: Office Hour
+        start: 2:00 PM
+        end: 3:00 PM
+        location: 709, South Tower, College of Engineering
+
 ---
