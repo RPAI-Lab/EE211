@@ -3,9 +3,10 @@ title: Introductions
 ---
 
 Sep 10
-: **Lecture**{: .label .label  }[Course Introduction](#)
-: **Lab**{: .label .label-purple }[Prerequisites](#) 
-  : [Introduce the final project](https://rpai-lab.github.io/EE211/HW_and_Project/#project)
+: **Lecture**{: .label .label  }[01. Course Introduction](#)
+  : [Slides](#)
+: **Lab**{: .label .label-purple }[01. Prerequisites and Introduction](#) 
+  : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lab/EE211-24Fall-Lab1.pdf)
 
 
 <!-- --- -->
