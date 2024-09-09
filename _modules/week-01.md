@@ -4,7 +4,7 @@ title: Week 1
 
 Sep 10
 : **Lecture**{: .label }[01. Course Introduction](#)
-  : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture.pdf)
+  : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture1.pdf)
 : **Lab**{: .label .label-purple }[01. Prerequisites and Introduction](#) 
   : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lab/EE211-24Fall-Lab1.pdf)
 
