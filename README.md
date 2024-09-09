@@ -10,7 +10,7 @@ seo:
 
 # EE211 - Robotic Perception and Intelligence
 
-## Course Introduction
+## Introduction
 
 This course aims to introduce the commonly used sensors and their working principles in robots, including inertial sensing, GPS, odometry, 3D vision for navigation, grasping tasks, visual servoing, multi-sensor data fusion, as well as the intelligent planning methods in different robot tasks and the commonly used robot learning algorithms.
 
