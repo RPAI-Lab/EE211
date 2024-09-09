@@ -6,4 +6,4 @@ website:
 photo: wjl.jpg
 ---
 
-Master student at RPi Lab, SUSTech.
+Master student at RPAI Lab, SUSTech.

@@ -6,4 +6,4 @@ website:
 photo: zbr.jpg
 ---
 
-Ph.D student at RPi Lab, SUSTech.
+Ph.D student at RPAI Lab, SUSTech.
