@@ -22,10 +22,6 @@ This course aims to introduce the commonly used sensors and their working princi
 - **Lecture Location:** room 305, Lecture Hall 1 
 - **Lab Session Location:** room 120, South Tower, College of Engineering
  
-## Lecture
+## Course Materials
 
-- [To be released...]()
-
-## Lab Session
-
-- [To be released...]()
+[Check Here](https://rpai-lab.github.io/EE211/calendar/)
