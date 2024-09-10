@@ -21,6 +21,7 @@ This course aims to introduce the commonly used sensors and their working princi
 - **Credit Hours:** 64 
 - **Lecture Location:** room 305, Lecture Hall 1 
 - **Lab Session Location:** room 120, South Tower, College of Engineering
+- **Course QQ Group:** 487594133
  
 ## Course Materials
 
