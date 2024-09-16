@@ -15,14 +15,14 @@ seo:
 This course aims to introduce the commonly used sensors and their working principles in robots, including inertial sensing, GPS, odometry, 3D vision for navigation, grasping tasks, visual servoing, multi-sensor data fusion, as well as the intelligent planning methods in different robot tasks and the commonly used robot learning algorithms.
 
 ## Information
-- **Course Name:** Robotic Perception and Intelligence
+<!-- - **Course Name:** Robotic Perception and Intelligence -->
 - **Course ID:** EE211
 - **Credits:** 3
 - **Credit Hours:** 64 
 - **Lecture Location:** room 305, Lecture Hall 1 
 - **Lab Session Location:** room 120, South Tower, College of Engineering
-- **Staff:** [Check Here](http://127.0.0.1:4000/EE211/staff/)
-- **Course QQ Group:** 487594133
+- **Course Staff:** [Check Here](https://rpai-lab.github.io/EE211/staff/)
+- **QQ Group:** 487594133
  
 ## Course Materials
 
