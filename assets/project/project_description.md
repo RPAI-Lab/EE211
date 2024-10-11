@@ -18,7 +18,7 @@ nav_exclude: true
 <br>
 
 
-<img src="http://127.0.0.1:4000//EE211/assets/images/proj_description_pic1.jpg" alt="proj_pic1" style="zoom:40%;" />
+<img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic1.jpg" alt="proj_pic1" style="zoom:40%;" />
 
 ## 任务目标
 
@@ -35,4 +35,4 @@ nav_exclude: true
 
 场地如图片所示，大小为5m*5m，届时会在黄色线上布置挡板，并且会放置红绿信号灯以及“stop”标识。
 
-<img src="http://127.0.0.1:4000//EE211/assets/images/proj_description_pic2.jpg" alt="proj_pic2" style="zoom:50%;" />
+<img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic2.jpg" alt="proj_pic2" style="zoom:50%;" />
