@@ -20,7 +20,7 @@ description: Course Homework and Project.
 ## Assignment 1
 > **Deadline:** Oct. 13
 
-[Check Assignment 1](https://rpai-lab.github.io/EE211/assets/hw/Assignment_1.pdf)
+- [Check Assignment 1](https://rpai-lab.github.io/EE211/assets/hw/Assignment_1.pdf)
 <br>
 
 <br>
