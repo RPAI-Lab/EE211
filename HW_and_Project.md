@@ -47,4 +47,4 @@ description: Course Homework and Project.
 - [Manual for the robot we use](https://rpai-lab.github.io/EE211/assets/project/robot_doc_for_24fall_project)
 <!-- - [Manual for the robot we use](http://127.0.0.1:4000/EE211/assets/project/robot_doc_for_24fall_project) -->
 - [A script that may help configuring developing environment on your robot](https://github.com/RPAI-Lab/EE211/blob/24fall/assets/project/configure_dev_env.sh)
-
+- [Remote connection to robot](https://rpai-lab.github.io/EE211/assets/project/remote_connection)
