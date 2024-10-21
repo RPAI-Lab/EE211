@@ -18,7 +18,7 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
 # cap.set(cv2.CV_CAP_PROP_HUE, 50);
 # cap.set(cv2.CV_CAP_PROP_EXPOSURE, 50);
 
-image_id = 1
+image_id = 0
 while True:
     # Capture frame-by-frame
     ret, frame = cap.read()
