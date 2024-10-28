@@ -2,7 +2,7 @@
 title: Week 7
 ---
 
-Oct 12
+Oct 22
 : **Lecture**{: .label }[05. Sampling-based Methods](#)
   : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture5.pdf)
 : **Lab**{: .label .label-purple }[05. Introduce OpenCV](#) 

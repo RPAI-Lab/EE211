@@ -40,7 +40,7 @@ nav_exclude: true
 > Download the code materials and explore the provided codes in `introduce_opencv` folder by yourself
 
 
--  [Click here to download the code material](https://raw.githubusercontent.com/RPAI-Lab/EE211/refs/heads/24fall/assets/lab/week7/ee211-lab-week7-code-materials.zip)
+-  [Download the code material](https://raw.githubusercontent.com/RPAI-Lab/EE211/refs/heads/24fall/assets/lab/week7/ee211-lab-week7-code-materials.zip)
 
 ## 2. Integrate OpenCV to ROS2 
 > Place the `opencv_pkg` in the provided code materials into a ROS2 colcon workspace, then build the workspace, explore codes in `opencv_pkg`
