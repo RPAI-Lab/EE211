@@ -58,7 +58,7 @@ e.g.
 <span style="color: red; font-size: 18px">
     <strong>
 <i>
-    ***Take Care If You Are a Member of Group 2!!***
+    ***Take Care If You Are a Member of Group 2 !!***
 </i>
     </strong>
 </span> 
@@ -101,6 +101,12 @@ Please check it carefully
 ***Keyboard Teleopration***
 
 - `ros2 run teleop_twist_keyboard teleop_twist_keyboard`: Send velocity command to topic `/cmd_vel`
+
+<br>
+
+***Rviz2 Visualization***
+
+- `ros2 launch iqr_tb4_description display.launch.py`: Visualize the "digital twin" of the robot 
 
 <br>
 
