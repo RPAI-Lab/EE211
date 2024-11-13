@@ -19,18 +19,19 @@ nav_exclude: true
 <br>
 
 ## What is TF2?
-TF2 is a package in ROS2 that lets the user keep track of multiple coordinate frames over time. It maintains the relationship between coordinate frames in a tree structure buffered in time, and lets the user query for the transformation between any two frames at any point in time.
+> TF2 is a package in ROS2 that lets the user keep track of multiple coordinate frames over time. It maintains the relationship between coordinate frames in a tree structure buffered in time, and lets the user query for the transformation between any two frames at any point in time.
 
-In our project, you can obtain the transformation between the target grasping object and the end-effector_link of the PX100 arm utilizing TF2. Then execute the result of the inverse kinematics to move the arm to the target pose to grasp the object.
-
-
+*"In our project, you can obtain the transformation between the target grasping object and the end-effector_link of the PX100 arm utilizing TF2. Then execute the result of the inverse kinematics to move the arm to the target pose to grasp the object."*
 
 
-<br>
+
+
 
 <br>
 
 ## An Example
+
+<br>
 
 ***0. Install TF2***
 
@@ -39,6 +40,7 @@ sudo apt-get install ros-humble-tf2-ros
 sudo apt-get install ros-humble-tf2
 sudo apt-get install ros-humble-tf2-tools
 ```
+<br>
 
 ***1. Connect to your robot, then run `ros2 launch interbotix_xsarm_descriptions xsarm_description.launch.py robot_model:=px100 use_joint_pub_gui:=true`***
 
@@ -50,7 +52,6 @@ After this, the tf2 tree will be built.
 
 - run `ros2 topic echo /tf` to see the transformation information.
 
-<br>
 <br>
 
 ***2. Create a listener node to get the transformation between two frames***
