@@ -19,16 +19,18 @@ nav_exclude: true
 <br>
 
 ## What is Inverse Kinematics?
-Inverse Kinematics (IK) is a method to determine the `joint angles` of a robot arm given the `desired end-effector position and orientation`. 
+> **Inverse Kinematics (IK)** is a method to determine the `joint angles` of a robot arm given the `desired end-effector position and orientation`. 
+>
+> **While Forward Kinematics (FK)** is to determine the `end-effector position and orientation` given the `joint angles`.
 
-While Forward Kinematics (FK) is to determine the `end-effector position and orientation` given the `joint angles`.
 <br>
 
 For PX100 arm, the end-effector is the gripper.
 <br>
 
+<br>
 
-Questions:
+**Questions:**
 1. How many solutions does a FK problem have?
 2. How many soluttons does a IK problem have for a PX100 arm?
 3. How many solutions does a IK problem have?
@@ -37,7 +39,7 @@ Questions:
 
 <br>
 
-Now, you can connect to your robot, then run `ros2 launch interbotix_xsarm_descriptions xsarm_description.launch.py robot_model:=px100 use_joint_pub_gui:=true` to visualize the arm in `rviz2`， which will show you the detailed robot model description.
+Now, you can connect to your robot, then run `ros2 launch interbotix_xsarm_descriptions xsarm_description.launch.py robot_model:=px100 use_joint_pub_gui:=true` to visualize the arm in rviz2， which will show you the detailed robot model description.
 
 <img src="https://rpai-lab.github.io/EE211/assets/lab/week11/imgs/px100_arm_description.png" alt="px100" style="zoom:50%;" /> 
 <br>
