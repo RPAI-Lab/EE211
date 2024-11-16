@@ -10,3 +10,5 @@ Nov 19
   : [Page](https://rpai-lab.github.io/EE211/assets/lab/week11/px100_ik)
 : **Attachment 2**{: .label .label-yellow }[TF2 Intro](#)
   : [Page](https://rpai-lab.github.io/EE211/assets/lab/week11/tf2_intro)
+: **Attachment 3**{: .label .label-yellow }[Aruco Code](#)
+  : [Page](https://rpai-lab.github.io/EE211/assets/lab/week11/aruco)
