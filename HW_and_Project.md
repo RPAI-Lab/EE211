@@ -42,12 +42,12 @@ description: Course Homework and Project.
 
 # Final Project
 
-## Project Description
+## Project Description & Grading
 - [Check Here](https://rpai-lab.github.io/EE211/assets/project/project_description)
 <!-- - [Check Here](http://127.0.0.1:4000/EE211/assets/project/project_description) -->
 
-## Grading
-- [Not released yet](#)
+<!-- ## Grading -->
+<!-- - [Not released yet](#) -->
 
 ## Resources
 
