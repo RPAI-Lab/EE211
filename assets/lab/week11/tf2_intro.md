@@ -46,7 +46,7 @@ sudo apt-get install ros-humble-tf2-tools
 
 After this, the tf2 tree will be built. 
 
-- run `ros2 run tf2_tools view_frames.py` to visualize the tf2 tree, check the generated `.pdf` file.
+- run `ros2 run tf2_tools view_frames` to visualize the tf2 tree, check the generated `.pdf` file.
 
 - run `ros2 topic list`, you can find the topic `/tf` and `/tf_static` are published.
 
