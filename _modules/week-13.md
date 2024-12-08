@@ -3,8 +3,6 @@ title: Week 13
 ---
 
 Dec 03
-: **Lecture**{: .label }[10. Probability Distributions](#)
-  : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture10.pdf)
 : **Lecture**{: .label }[11. Markov Models](#)
   : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture11.pdf)
 : **Lab**{: .label .label-purple }[Project promotion and Q&A](#) 
