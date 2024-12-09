@@ -30,6 +30,13 @@ description: Course Homework and Project.
 
 <br>
 
+## Assignment 3
+> **Deadline:** Dec. 16
+
+- [Check Assignment 3](https://rpai-lab.github.io/EE211/assets/hw/Assignment_3.pdf)
+
+<br>
+
 <br>
 
 <!--  -->
@@ -43,11 +50,18 @@ description: Course Homework and Project.
 # Final Project
 
 ## Project Description & Grading
-- [Check Here](https://rpai-lab.github.io/EE211/assets/project/project_description)
+<!-- - [Check Here](https://rpai-lab.github.io/EE211/assets/project/project_description) -->
 <!-- - [Check Here](http://127.0.0.1:4000/EE211/assets/project/project_description) -->
+<img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
 
-<!-- ## Grading -->
-<!-- - [Not released yet](#) -->
+
+1. 从起点移动到stop标志处，看到此标识需停止前行，移开标识后再继续移动（15分）
+2. 导航至停在Pick区，抓取目标方块（35分）
+1. 导航至红绿灯处，检测到红灯停止前进，待绿灯亮后继续前行（15分）
+4. 导航至Place区，将物块放置在此处（15分）
+5. 导航到Park区，停留5秒（10分）
+7. 离开Park区，导航回到起点（10分）
+
 
 ## Resources
 
