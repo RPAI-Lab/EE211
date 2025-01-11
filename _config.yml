@@ -17,7 +17,7 @@ title: EE211 24Fall
 tagline: Course Website
 description: Website for Course EE211
 author: Siyuan Wang
-baseurl: '/EE211' # the subpath of your site, e.g. /blog
+baseurl: '/EE211-24Fall' # the subpath of your site, e.g. /blog
 url: 'https://github.com/RPAI-Lab' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   GitHub:
-    - 'https://github.com/RPAI-Lab/EE211'
+    - 'https://github.com/RPAI-Lab/EE211-24Fall'
 footer_content:
 
 # Set a path/url to a favicon that will be displayed by the browser
