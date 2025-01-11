@@ -55,12 +55,24 @@ description: Course Homework and Project.
 <img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
 
 
-1. 从起点移动到stop标志处，看到此标识需停止前行，移开标识后再继续移动（15分）
-2. 导航至停在Pick区，抓取目标方块（35分）
-1. 导航至红绿灯处，检测到红灯停止前进，待绿灯亮后继续前行（15分）
-4. 导航至Place区，将物块放置在此处（15分）
-5. 导航到Park区，停留5秒（10分）
-7. 离开Park区，导航回到起点（10分）
+<!-- 1. 从起点移动到stop标志处，看到此标识需停止前行，移开标识后再继续移动（15分） -->
+<!-- 2. 导航至停在Pick区，抓取目标方块（35分） -->
+<!-- 1. 导航至红绿灯处，检测到红灯停止前进，待绿灯亮后继续前行（15分） -->
+<!-- 4. 导航至Place区，将物块放置在此处（15分） -->
+<!-- 5. 导航到Park区，停留5秒（10分） -->
+<!-- 7. 离开Park区，导航回到起点（10分） -->
+
+1. Move from the starting point to the "stop" marker. Stop in place when the camera captures this sign, move on after the sign was removed (15 points).
+
+2. Navigate to the Pick area and pick up the target cube (35 points).
+
+3. Navigate to the traffic light place. Stop in place when the red light turnes on, move on once the green light turned on (15 points).
+
+4. Navigate to the Place area and place the target cube here (15 points).
+
+5. Navigate to the Park area, stays for 5 seconds (10 points).
+
+6. Navigate back to the starting point (10 points).
 
 
 ## Resources
