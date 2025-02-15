@@ -5,7 +5,7 @@ description: Robot Connection, written by Siyuan Wang.
 nav_exclude: true
 ---
 
-[← Back](https://rpai-lab.github.io/EE211/HW_and_Project/)
+[← Back](https://rpai-lab.github.io/EE211-24Fall/HW_and_Project/)
 
 <br>
 

@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 
-[← Back](https://rpai-lab.github.io/EE211/calendar/)
+[← Back](https://rpai-lab.github.io/EE211-24Fall/calendar/)
 
 <br>
 
@@ -41,7 +41,7 @@ For PX100 arm, the end-effector is the gripper.
 
 Now, you can connect to your robot, then run `ros2 launch interbotix_xsarm_descriptions xsarm_description.launch.py robot_model:=px100 use_joint_pub_gui:=true` to visualize the arm in rviz2， which will show you the detailed robot model description.
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week11/imgs/px100_arm_description.png" alt="px100" style="zoom:50%;" /> 
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week11/imgs/px100_arm_description.png" alt="px100" style="zoom:50%;" /> 
 <br>
 
 <br>

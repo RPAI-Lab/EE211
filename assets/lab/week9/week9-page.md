@@ -5,8 +5,8 @@ description: written by Siyuan Wang.
 nav_exclude: true
 ---
 
-[← Back](https://rpai-lab.github.io/EE211/calendar/)
-<!-- [← Back](http://127.0.0.1:4000/EE211/calendar/) -->
+[← Back](https://rpai-lab.github.io/EE211-24Fall/calendar/)
+<!-- [← Back](http://127.0.0.1:4000/EE211-24Fall/calendar/) -->
 
 <br>
 
@@ -33,7 +33,7 @@ nav_exclude: true
 
 ### Make Sure to Check the Doc written by TA
 
-- [Manual for the robot we use](https://rpai-lab.github.io/EE211/assets/project/robot_doc_for_24fall_project)
+- [Manual for the robot we use](https://rpai-lab.github.io/EE211-24Fall/assets/project/robot_doc_for_24fall_project)
 
 ### Make sure your ROS_DOMAIN_ID is unique on your PC, as well as your robot per group
 
@@ -68,7 +68,7 @@ e.g.
 
 ### Here is a template of a colcon workspace `src` folder
 
-- [Download the Template SRC](https://raw.githubusercontent.com/RPAI-Lab/EE211/refs/heads/24fall/assets/project/Robot_Workspace_SRC/src.tar.xz)
+- [Download the Template SRC](https://raw.githubusercontent.com/RPAI-Lab/EE211-24Fall/refs/heads/24fall/assets/project/Robot_Workspace_SRC/src.tar.xz)
 
 The structure of `src` should be like:
 ```
@@ -139,10 +139,10 @@ Please check it carefully
 
 - You should place the arm in a configuration as below before `ros2 launch iqr_tb4_bringup bringup.launch.py`: 
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week9/imgs/pic0.jpg" alt="name" style="zoom:8%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week9/imgs/pic0.jpg" alt="name" style="zoom:8%;" />
 <!-- <img src="./imgs/pic0.jpg" alt="name" style="zoom:8%;" />  -->
 
-and here is a script that you may find it helpful to control the arm: [arm_control_demo.py](https://rpai-lab.github.io/EE211/assets/project/Robot_Workspace_SRC/scripts/arm_controller_demo.py)
+and here is a script that you may find it helpful to control the arm: [arm_control_demo.py](https://rpai-lab.github.io/EE211-24Fall/assets/project/Robot_Workspace_SRC/scripts/arm_controller_demo.py)
 
 <br>
 

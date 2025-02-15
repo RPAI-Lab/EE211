@@ -19,21 +19,21 @@ description: Course Homework and Project.
 ## Assignment 1
 > **Deadline:** Oct. 13
 
-- [Check Assignment 1](https://rpai-lab.github.io/EE211/assets/hw/Assignment_1.pdf)
+- [Check Assignment 1](https://rpai-lab.github.io/EE211-24Fall/assets/hw/Assignment_1.pdf)
 
 <br>
 
 ## Assignment 2
 > **Deadline:** Nov. 25
 
-- [Check Assignment 2](https://rpai-lab.github.io/EE211/assets/hw/Assignment_2.pdf)
+- [Check Assignment 2](https://rpai-lab.github.io/EE211-24Fall/assets/hw/Assignment_2.pdf)
 
 <br>
 
 ## Assignment 3
 > **Deadline:** Dec. 16
 
-- [Check Assignment 3](https://rpai-lab.github.io/EE211/assets/hw/Assignment_3.pdf)
+- [Check Assignment 3](https://rpai-lab.github.io/EE211-24Fall/assets/hw/Assignment_3.pdf)
 
 <br>
 
@@ -50,9 +50,9 @@ description: Course Homework and Project.
 # Final Project
 
 ## Project Description & Grading
-<!-- - [Check Here](https://rpai-lab.github.io/EE211/assets/project/project_description) -->
-<!-- - [Check Here](http://127.0.0.1:4000/EE211/assets/project/project_description) -->
-<img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
+<!-- - [Check Here](https://rpai-lab.github.io/EE211-24Fall/assets/project/project_description) -->
+<!-- - [Check Here](http://127.0.0.1:4000/EE211-24Fall/assets/project/project_description) -->
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
 
 
 <!-- 1. 从起点移动到stop标志处，看到此标识需停止前行，移开标识后再继续移动（15分） -->
@@ -77,10 +77,10 @@ description: Course Homework and Project.
 
 ## Resources
 
-- [Manual for the robot we use](https://rpai-lab.github.io/EE211/assets/project/robot_doc_for_24fall_project)
-<!-- - [Manual for the robot we use](http://127.0.0.1:4000/EE211/assets/project/robot_doc_for_24fall_project) -->
-- [Remote connection to robot](https://rpai-lab.github.io/EE211/assets/project/remote_connection)
-- [A script that may help configuring developing environment on your robot](https://github.com/RPAI-Lab/EE211/blob/24fall/assets/project/configure_dev_env.sh)
+- [Manual for the robot we use](https://rpai-lab.github.io/EE211-24Fall/assets/project/robot_doc_for_24fall_project)
+<!-- - [Manual for the robot we use](http://127.0.0.1:4000/EE211-24Fall/assets/project/robot_doc_for_24fall_project) -->
+- [Remote connection to robot](https://rpai-lab.github.io/EE211-24Fall/assets/project/remote_connection)
+- [A script that may help configuring developing environment on your robot](https://github.com/RPAI-Lab/EE211-24Fall/blob/24fall/assets/project/configure_dev_env.sh)
 
 <br>
 

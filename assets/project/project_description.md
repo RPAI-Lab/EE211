@@ -5,7 +5,7 @@ description: Project Description, written by Biru Zhang.
 nav_exclude: true
 ---
 
-[← Back](https://rpai-lab.github.io/EE211/HW_and_Project/)
+[← Back](https://rpai-lab.github.io/EE211-24Fall/HW_and_Project/)
 
 <br>
 
@@ -18,7 +18,7 @@ nav_exclude: true
 <br>
 
 
-<img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/images/proj_description_pic1.png" alt="proj_pic1" style="zoom:50%;" />
 
 ## 任务目标
 
@@ -35,4 +35,4 @@ nav_exclude: true
 <!--  -->
 <!-- 场地如图片所示，大小为5m*5m，届时会在黄色线上布置挡板，并且会放置红绿信号灯以及“stop”标识。 -->
 <!--  -->
-<!-- <img src="https://rpai-lab.github.io/EE211/assets/images/proj_description_pic2.png" alt="proj_pic2" style="zoom:50%;" /> -->
+<!-- <img src="https://rpai-lab.github.io/EE211-24Fall/assets/images/proj_description_pic2.png" alt="proj_pic2" style="zoom:50%;" /> -->

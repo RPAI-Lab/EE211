@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 
-[← Back](https://rpai-lab.github.io/EE211/calendar/)
+[← Back](https://rpai-lab.github.io/EE211-24Fall/calendar/)
 
 <br>
 

@@ -21,9 +21,9 @@ This course aims to introduce the commonly used sensors and their working princi
 - **Credit Hours:** 64 
 - **Lecture Location:** room 305, Lecture Hall 1 
 - **Lab Session Location:** room 120, South Tower, College of Engineering
-- **Course Staff:** [Check Here](https://rpai-lab.github.io/EE211/staff/)
+- **Course Staff:** [Check Here](https://rpai-lab.github.io/EE211-24Fall/staff/)
 - **QQ Group:** 487594133
  
 ## Course Materials
 
-[Check Here](https://rpai-lab.github.io/EE211/calendar/)
+[Check Here](https://rpai-lab.github.io/EE211-24Fall/calendar/)

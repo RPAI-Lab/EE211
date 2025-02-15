@@ -5,8 +5,8 @@ description: written by Siyuan Wang.
 nav_exclude: true
 ---
 
-[← Back](https://rpai-lab.github.io/EE211/calendar/)
-<!-- [← Back](http://127.0.0.1:4000/EE211/calendar/) -->
+[← Back](https://rpai-lab.github.io/EE211-24Fall/calendar/)
+<!-- [← Back](http://127.0.0.1:4000/EE211-24Fall/calendar/) -->
 
 <br>
 
@@ -65,7 +65,7 @@ ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 
 If nothing wrong happened, you are able to interact with the gazobo simulation app:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic0.png" alt="pic0" style="zoom:15%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic0.png" alt="pic0" style="zoom:15%;" />
 <!-- <img src="imgs/pic0.png" alt="pic0" style="zoom:15%;" /> -->
 
 <br>
@@ -97,7 +97,7 @@ ros2 launch turtlebot3_cartographer cartographer.launch.py
 ````
 Rviz2 will be opened and should be look like this:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic1.png" alt="pic1" style="zoom:30%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic1.png" alt="pic1" style="zoom:30%;" />
 <!-- <img src="imgs/pic1.png" alt="pic1" style="zoom:30%;" /> -->
 
 - **Option 2: slam toolbox**
@@ -111,7 +111,7 @@ ros2 launch slam_toolbox online_async_launch.py
 
 Then, open another terminal to open rviz2, then configure your rviz2 manually:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic6.png" alt="pic6" style="zoom:35%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic6.png" alt="pic6" style="zoom:35%;" />
 <!-- <img src="imgs/pic6.png" alt="pic6" style="zoom:35%;" /> -->
 
 <br>
@@ -124,7 +124,7 @@ ros2 run turtlebot3_teleop teleop_keyboard # or: ros2 run teleop_twist_keyboard 
 
 Drive the robot until the map is fully constructed:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic2.png" alt="pic2" style="zoom:30%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic2.png" alt="pic2" style="zoom:30%;" />
 <!-- <img src="imgs/pic2.png" alt="pic2" style="zoom:30%;" /> -->
 
 <br>
@@ -161,7 +161,7 @@ NOTE: --ros-args should be passed at the end of command line
 
 
 ## 2. (Navigation) Use Navigation2 to Navigate the Robot
-> [Download the provided ros2 nav2 package](https://raw.githubusercontent.com/RPAI-Lab/EE211/refs/heads/24fall/assets/lab/week8/ee211-lab-week8-code-materials.zip)
+> [Download the provided ros2 nav2 package](https://raw.githubusercontent.com/RPAI-Lab/EE211-24Fall/refs/heads/24fall/assets/lab/week8/ee211-lab-week8-code-materials.zip)
 
 
 ### a. Place the provided `my_nav2_pkg` in the `src` folder of your colcon workspace, then build
@@ -209,17 +209,17 @@ ros2 launch my_nav2_pkg tb3_nav2_launch.py
 ```
 - If you see like this, then everything runs well; 
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic3.png" alt="pic3" style="zoom:30%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic3.png" alt="pic3" style="zoom:30%;" />
 <!-- <img src="imgs/pic3.png" alt="pic3" style="zoom:30%;" /> -->
 
 Then, click `2D Pose Estimate` button, and set the approximate position and orientation of the robot in rviz2:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic4.png" alt="pic4" style="zoom:30%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic4.png" alt="pic4" style="zoom:30%;" />
 <!-- <img src="imgs/pic4.png" alt="pic4" style="zoom:30%;" /> -->
 
 Now, you can use click the `Nav2 Goal` button then set the goal position and orientation, then the robot will automatically go there:
 
-<img src="https://rpai-lab.github.io/EE211/assets/lab/week8/imgs/pic5.png" alt="pic5" style="zoom:30%;" />
+<img src="https://rpai-lab.github.io/EE211-24Fall/assets/lab/week8/imgs/pic5.png" alt="pic5" style="zoom:30%;" />
 <!-- <img src="imgs/pic5.png" alt="pic5" style="zoom:30%;" /> -->
 
 ### c. Use nav2 API to automatically navigate the robot

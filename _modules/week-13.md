@@ -4,9 +4,9 @@ title: Week 13
 
 Dec 03
 : **Lecture**{: .label }[10. Probability in Robotics](#)
-  : [Slides](https://rpai-lab.github.io/EE211/assets/slides/lecture/EE211-24Fall-Lecture10.pdf)
+  : [Slides](https://rpai-lab.github.io/EE211-24Fall/assets/slides/lecture/EE211-24Fall-Lecture10.pdf)
 : **Lab**{: .label .label-purple }[Project promotion and Q&A](#) 
 : **Attachment**{: .label .label-yellow }[Preliminaries-d-SEPARATION](#)
-  : [Download](https://rpai-lab.github.io/EE211/assets/slides/lecture/Preliminaries-d-SEPARATION.pdf)
+  : [Download](https://rpai-lab.github.io/EE211-24Fall/assets/slides/lecture/Preliminaries-d-SEPARATION.pdf)
 : **Assignment 3**{: .label .label-red }[Dec. 16](#) 
-  : [Check Here](https://rpai-lab.github.io/EE211/assets/hw/Assignment_3.pdf)
+  : [Check Here](https://rpai-lab.github.io/EE211-24Fall/assets/hw/Assignment_3.pdf)
